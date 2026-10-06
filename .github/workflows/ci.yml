@@ -60,7 +60,6 @@ jobs:
           node-version: 22.13
           cache: pnpm
       - run: pnpm install --frozen-lockfile
-      - run: pnpm build:injected
       - run: pnpm verify
 
   # Cross-platform compile + lint gate (M7): proves the Rust app builds against the real
