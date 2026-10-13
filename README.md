@@ -9,11 +9,11 @@ AI 開發公會可用的多模型桌面協作工具來源。 保留 Tauri 桌面
 
 工坊 fork 沒有平台 SSO、代管 provider 帳號或新桌面 release；登入仍由本人完成。
 
-工坊 Fork：上游產品／授權來源為 [teddashh/multi-ai-chat-desktop](https://github.com/teddashh/multi-ai-chat-desktop)；本次協作的 Issue／PR 送到 **FreeTWAI-AI/multi-ai-chat-desktop**，不是自動送往上游。
+工坊 Fork：上游產品／授權來源為 [teddashh/multi-ai-chat-desktop](https://github.com/teddashh/multi-ai-chat-desktop)；本次協作的 Issue／PR 送到 **FreeTWAI/multi-ai-chat-desktop**，不是自動送往上游。
 
-程式／內容入口：[src/](src/)、[src-tauri/](src-tauri/)、[adapters/](adapters/)、[injected/](injected/)、[scripts/agent/](scripts/agent/)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI-AI/multi-ai-chat-desktop/issues)認領、[查看既有 PR](https://github.com/FreeTWAI-AI/multi-ai-chat-desktop/pulls)避免重工。
+程式／內容入口：[src/](src/)、[src-tauri/](src-tauri/)、[adapters/](adapters/)、[injected/](injected/)、[scripts/agent/](scripts/agent/)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI/multi-ai-chat-desktop/issues)認領、[查看既有 PR](https://github.com/FreeTWAI/multi-ai-chat-desktop/pulls)避免重工。
 
-現有 provider web sessions 留在桌面工具，不可轉成 Freedom 會員身分或公開憑證。adapter scope 與 explicit-only Agent lifecycle 按上游規則，平台只連公開專案與成果。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI-AI/freedom-platform)維護。
+現有 provider web sessions 留在桌面工具，不可轉成 Freedom 會員身分或公開憑證。adapter scope 與 explicit-only Agent lifecycle 按上游規則，平台只連公開專案與成果。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI/freedom-platform)維護。
 <!-- freedom-repository-guide:end -->
 
 **English** · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja.md) · [Deutsch](./README.de.md)
